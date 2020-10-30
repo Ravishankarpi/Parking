@@ -25,4 +25,4 @@ please run the following commands
  
 * Dotnet run input.txt To Run the Parking Lot application in File Mode
 
-![alt text](https://github.com/Ravishankarpi/Parking/blob/master/ConsoleApp2/2.jpg "Logo Title Text ")
+![alt text](https://github.com/Ravishankarpi/Parking/blob/master/ConsoleApp2/2.jpg "Logo Title Text 2 ")
