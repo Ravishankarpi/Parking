@@ -21,7 +21,7 @@ please run the following commands
 
 * Dotnet run To Run the Parking Lot application in Interactive Mode
 
-![alt text](https://github.com/Ravishankarpi/Parking/blob/master/ConsoleApp2/1.jpg "Logo Title Text 1"
+![alt text](https://github.com/Ravishankarpi/Parking/blob/master/ConsoleApp2/1.jpg "Logo Title Text 1" )
  
 * Dotnet run input.txt To Run the Parking Lot application in File Mode
 
