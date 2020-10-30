@@ -3,6 +3,7 @@ I have implemented the Parking Lot problem in C# Language as a .NET Core 3.1 Con
 It works on Windows, macOS and Linux.
 ## Project Requirements
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) 
+  
   or
 * .Net Core SDK and .Net Core Runtime
 ### Step 1
