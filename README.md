@@ -20,7 +20,4 @@ If there are no issues found in this building process. The building process is s
 please run the following commands
 * Dotnet run To Run the Parking Lot application in Interactive Mode
 * Dotnet run input.txt To Run the Parking Lot application in File Mode
-  ```c#
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+ 
