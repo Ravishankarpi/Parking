@@ -5,7 +5,7 @@ It works on Windows, macOS and Linux.
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) 
   
   or
-* [.Net Core SDK and .Net Core Runtime](https://dotnet.microsoft.com/download)
+* [Net Core SDK and .Net Core Runtime](https://dotnet.microsoft.com/download)
 ## Step 1
   Now open Visual Studio  and use shortcut key Ctrl+Shift+O to open the project. After using the shortcut key, Visual Studio will open up a dialog box. Using that dialog box, navigate to our Parking_lot  directory and select the Parking Lot Problem.sln file and then click on Open button.
   
