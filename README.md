@@ -19,10 +19,16 @@ If there are no issues found in this building process. The building process is s
   
 please run the following commands 
 
-* Dotnet run To Run the Parking Lot application in Interactive Mode
+* <dl>
+  <dt>Dotnet run</dt>
+</dl> to Run the Parking Lot application in Interactive Mode
 
 ![alt text](https://github.com/Ravishankarpi/Parking/blob/master/ConsoleApp2/1.jpg "Logo Title Text 1" )
  
-* Dotnet run input.txt To Run the Parking Lot application in File Mode
+* <dl>
+  <dt>Dotnet run input.txt</dt>
+</dl> to Run the Parking Lot application in File Mode
 
 ![alt text](https://github.com/Ravishankarpi/Parking/blob/master/ConsoleApp2/2.jpg "Logo Title Text 2 ")
+
+
